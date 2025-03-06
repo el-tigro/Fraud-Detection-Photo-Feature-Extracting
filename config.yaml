@@ -1,0 +1,5 @@
+bucket_name_dict:
+  - 'company_name1': 'prod-company_name1.ru',
+  - 'company_name2': 'prod-company_name2.ru'
+endpoints:
+  get_df: 'http://localhost:8080/get_features'
